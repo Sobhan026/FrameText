@@ -48,9 +48,16 @@ A lot of improvements are planned for future versions.
 
 ## Screenshot
 
-![OCR](images/Screenshot 2026-02-12 152247.png)
-![Translator](images/Screenshot 2026-02-12 152338.png)
-![Output Screenshot](images/test.png)
+
+|                                                  |                                                  |
+| ------------------------------------------------ | ------------------------------------------------ | 
+| ![Output Screenshot](images/test.png)            | ![OCR](images/Screenshot 2026-02-12 152247.png) |
+|                                                  | ![Translator](images/Screenshot 2026-02-12 152338.png) |
+|                                                  |                                                  | 
+
+
+
+
 
 ---
 
