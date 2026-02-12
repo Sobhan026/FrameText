@@ -46,13 +46,13 @@ A lot of improvements are planned for future versions.
 
 ---
 
-## Screenshot
+## Screenshots
 
 
 |                                                  |                                                  |
 | ------------------------------------------------ | ------------------------------------------------ | 
-| ![Output Screenshot](images/test.png)            | ![OCR](images/Screenshot 2026-02-12 152247.png) |
-|                                                  | ![Translator](images/Screenshot 2026-02-12 152338.png) |
+| ![Output Screenshot](images/test.png)            | ![Translator](images/Translator.png)             |
+|                                                  | ![OCR](images/OCR.png)                           |
 |                                                  |                                                  | 
 
 
@@ -66,7 +66,7 @@ A lot of improvements are planned for future versions.
 ### 1) Clone repository
 
 ```bash
-git clone [FrameText](https://github.com/Sobhan026/FrameText/)
+git clone https://github.com/Sobhan026/FrameText.git
 cd FrameText
 ```
 
