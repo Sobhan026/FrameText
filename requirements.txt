@@ -1,0 +1,24 @@
+# ===== FrameText / stable requirements =====
+# Python: 3.10 - 3.12
+
+# OCR stack (compatible line)
+paddlepaddle==3.2.2
+paddleocr==3.2.0
+paddlex==3.2.0
+
+# UI stack (avoid gradio schema crash with pydantic 2.11.x)
+gradio>=5,<6
+gradio_client>=1,<2
+pydantic==2.10.6
+
+# Translation / language utilities
+langdetect==1.0.9
+argostranslate==1.9.6
+
+# Image + rendering
+opencv-python==4.10.0.84
+Pillow==11.1.0
+numpy==1.26.4
+requests==2.32.3
+python-bidi==0.6.3
+arabic-reshaper==3.0.0
