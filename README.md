@@ -48,21 +48,9 @@ A lot of improvements are planned for future versions.
 
 ## Screenshot
 
-Add your app screenshot(s) here.
 
-> Recommended path in this repository:
->
-> `docs/images/app-screenshot.png`
 
-Then keep this markdown in the README:
-
-```md
-![Vision Translator Screenshot](docs/images/app-screenshot.png)
-```
-
-Example render:
-
-![Vision Translator Screenshot](docs/images/app-screenshot.png)
+![Output Screenshot](images/test.png)
 
 ---
 
